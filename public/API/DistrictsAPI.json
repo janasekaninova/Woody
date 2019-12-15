@@ -1,0 +1,125 @@
+[
+{
+    "name": "Bohunice", 
+    "id": 1
+},
+{
+    "name":"Bosonohy", 
+    "id": 2
+},
+{
+    "name":"Bystrc", 
+    "id": 3
+},
+{
+    "name":"Černovice", 
+    "id": 4
+},
+{
+    "name":"Chrlice", 
+    "id": 5
+},
+{
+    "name":"Ivanovice", 
+    "id": 6
+},
+{ "name":"Jehnice", 
+    "id": 7
+},
+{
+    "name":"Brno - Jih", 
+    "id": 8
+},
+{
+    "name":"Jundrov", 
+    "id": 9
+},
+{
+    "name":"Kníničky",
+    "id": 10
+},
+{
+    "name":"Kohoutovice", 
+    "id": 11
+},
+{
+    "name":"Komín", 
+    "id": 12
+},
+{
+    "name":"Královo Pole", 
+    "id": 13
+},
+{
+    "name":"Líšeň", 
+    "id": 14
+},
+{
+    "name":"Maloměřice a Obřany", 
+    "id": 15
+}, 
+{
+    "name":"Medlánky", 
+    "id": 16
+},
+{
+    "name":"Nový Lískovec", 
+    "id": 17
+},
+{
+    "name":"Ořešín", 
+    "id": 18
+},
+{
+    "name":"Řečkovice a Mokrá Hora", 
+    "id": 19
+},
+{
+    "name":"Brno - Sever", 
+    "id": 20
+},
+{
+    "name":"Slatina", 
+    "id": 21
+},
+{
+    "name":"Starý Lískovec", 
+    "id": 22
+},
+{
+    "name":"Brno - Střed", 
+    "id": 23
+},
+{
+    "name":"Tuřany", 
+    "id": 24
+},
+{
+    "name":"Útěchov", 
+    "id": 25
+},
+{
+    "name":"Vinohrady", 
+    "id": 26
+},
+{
+    "name":"Žabovřesky", 
+    "id": 27
+},
+{
+    "name":"Žebětín", 
+    "id": 28
+},
+{
+    "name":"Židenice",
+    "id": 29
+},
+{
+     "name": "Černá Pole",
+     "id": 30
+},
+{
+    "name": "Zábrdovice",
+    "id": 31    
+}
+]

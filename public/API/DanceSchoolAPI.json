@@ -1,0 +1,51 @@
+
+[{
+    "danceSchool": "DANZA",
+    "id": 1,
+    "address": "Třída gen. Píky 4, 613 00 Brno - Černá Pole",
+    "tel": "736 631 421",
+    "email": "info@danza.cz"
+},
+{
+    "danceSchool": "Taneční škola Dynamic",
+    "id": 2,
+    "address": "Bašty 413/2, 602 00 Brno-střed",
+    "tel": "734 369 982",
+    "email": "kancelar@tsdynamic.cz"
+},
+{
+    "danceSchool": "Taneční škola Eso",
+    "id": 3,
+    "address": "Jana Babáka, 602 00 Brno-Královo Pole",
+    "tel": "776 746 372",
+    "email": "jindrich.vlacil@tanecniskolaeso.cz"
+},
+{
+    "danceSchool": "RugCutters",
+    "id": 4,
+    "address": "Černopolní 791/8, 613 00 Brno-sever",
+    "tel": "776 037 709",
+    "email": "pavel@fireballs.cz"
+},
+{
+    "danceSchool": "Starlet Brno",
+    "id": 5,
+    "address": "Špitálka 253/6, 602 00 Brno-střed-Zábrdovice",
+    "tel": "732 754 293",
+    "email": "starlet@starlet-brno.cz"
+},
+{
+    "danceSchool": "Taneční studio Stolárna",
+    "id": 6,
+    "address": "Olomoucká 14, 618 00 Brno-Černovice",
+    "tel": "702 155 707",
+    "email": "tanecnistudio@gmail.com"
+},
+{
+    "danceSchool": "Swing Wings",
+    "id": 7,
+    "address": "Areál Křenová 19, Brno, 602 00",
+    "tel": "",
+    "email": "pilot@swingwings.cz"
+}
+]

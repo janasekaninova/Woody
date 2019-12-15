@@ -1,0 +1,43 @@
+[
+{
+    "danceSchool": "DANZA",
+    "address": "Třída gen. Píky 4, 613 00 Brno - Černá Pole",
+    "schoolId": "1"
+},
+
+{
+    "danceSchool": "Taneční škola Dynamic",
+    "address": "Bašty 413/2, 602 00 Brno-střed",
+    "id": "2"
+},
+{
+    "danceSchool": "Taneční škola Eso",
+    "address": "Jana Babáka, 602 00 Brno-Královo Pole",
+    "id": "3"
+},
+{
+    "danceSchool": "RugCutters",
+    "address": "Černopolní 791/8, 613 00 Brno-sever",
+    "id": "4"
+},
+{
+    "danceSchool": "Starlet Brno",
+    "address": "Špitálka 253/6, 602 00 Brno-střed-Zábrdovice",
+    "id": "5"
+},
+{
+    "danceSchool": "Taneční studio Stolárna",
+    "address": "Olomoucká 14, 618 00 Brno-Černovice",
+    "id": "6"
+},
+{
+    "danceSchool": "Swing Wings",
+    "address": "Areál Křenová 19, Brno, 602 00",
+    "id": "7"
+},
+{
+    "danceSchool": "Taneční škola Eso",
+    "address": "Malý sál, Cejl 76",
+    "id": "8"
+}
+]

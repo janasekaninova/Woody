@@ -1,0 +1,17 @@
+[
+ {    
+    "danceFamily": "Swing",
+    "id": "1"
+},
+
+{
+    "danceFamily": "Latinsko-americké tance",
+    "id": "2"
+},
+
+{
+    "danceFamily": "Standardní tance",
+    "id": "3"
+}
+
+]
